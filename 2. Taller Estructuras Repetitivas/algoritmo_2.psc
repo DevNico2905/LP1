@@ -18,7 +18,6 @@ Algoritmo algoritmo_2
 				suma_Datos = suma_Datos + grupo_De_Datos(i)
 			SiNo
 				i = cantidad_De_Datos - 1
-				j = cantidad_De_Datos - 1
 				salto = Verdadero 
 			FinSi
 		FinPara
