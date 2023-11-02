@@ -1,7 +1,7 @@
 Algoritmo algoritmo_5 //5.	Hacer un algoritmo que encuentre la suma de los
 	//valores mayor y menor entre un grupo de datos positivos. 
 	Definir cantidad_De_Datos Como Entero
-	Definir dato, mun_Mayor, num_Menor, suma Como Real
+	Definir dato, num_Mayor, num_Menor, suma Como Real
 	Definir bandera Como Logico
 	bandera = Verdadero
 	Escribir "¡Calcular la suma del número mayor y el menor!"
